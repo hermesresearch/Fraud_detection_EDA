@@ -1,2 +1,1 @@
-# Fraud_detection_EDA
-Simple Fraud Detection 
+# fraud_detection
